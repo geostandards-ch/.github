@@ -12,6 +12,7 @@ Folgende Repositories werden durch GeoStandards.ch auf GitHub bereitgestellt:
 - [`gs-website`](https://github.com/geostandards-ch/gs-website) - Quellcode zur Website https://geostandards.ch
 - [`ili2db_ilivalidator_de`](https://github.com/geostandards-ch/ili2db_ilivalidator_de) - Handbuch in Deutsch zu ili2db und ilivalidator
 - [`ili2db_ilivalidator_fr`](https://github.com/geostandards-ch/ili2db_ilivalidator_fr) - Handbuch in Französisch zu ili2db und ilivalidator
+- [`interlis-antlr4`](https://github.com/geostandards-ch/interlis-antlr4) - ANTLR4 Grammatik zum Parsen von INTERLIS 2.4
 - [`ogc-updates`](https://github.com/geostandards-ch/ogc-updates) - Artikel zu Entwicklungen bei OGC
 - [`repo_models`](https://github.com/geostandards-ch/repo_models) - Revisionsdokumentation zum INTERLIS Model Repository unter models.interlis.ch
 - [`repo_contribute`](https://github.com/geostandards-ch/repo_contribute) - Revisionsdokumentation zum INTERLIS Model Repository unter models.ilitools.ch
