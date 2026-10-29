@@ -20,3 +20,4 @@ Folgende Repositories werden durch GeoStandards.ch auf GitHub bereitgestellt:
 - [`repo_contribute`](https://github.com/geostandards-ch/repo_contribute) - Revisionsdokumentation zum INTERLIS Model Repository unter models.ilitools.ch
 - [`webinar-stac`](https://github.com/geostandards-ch/webinar-stac) - Webinar zu STAC und verwandte OGC API Standards
 - [`website-interlis-ch`](https://github.com/geostandards-ch/website-interlis-ch) - Issue-Tracker für https://www.interlis.ch
+- [`INTERLIS Datenvalidierung Testsuite`](https://github.com/geostandards-ch/suite-interlis) - Testsuite für die Validierungswerkzeuge ilivalidator und iG/Check (INTERLIS 2.3)
